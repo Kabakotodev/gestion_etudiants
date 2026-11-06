@@ -1,7 +1,7 @@
 # main.py
 
 def main():
-    print("Ceci est la page principale de l'application")
+    print("Bienvenue sur l'application de gestion des étudiants")
 
 
 if __name__ == "__main__":
